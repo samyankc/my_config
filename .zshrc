@@ -1,5 +1,5 @@
 PROMPT=$'%B%F{green}[\uf007]%n %F{cyan}[\uf07c]%~
- %F{yellow}\ue285%f%b '
+ %F{#919191}\ue285%f%b '
 
 export BREW_DIR="/home/linuxbrew/.linuxbrew/bin"
 export PATH="$HOME/bin:$HOME/.local/bin:$BREW_DIR:$PATH"
